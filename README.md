@@ -11,3 +11,5 @@ An example of filtering:
 Image 1 | Image 2 | Fused Image
 -|-|-
 ![Image 1](/assets/a09_1.png) | ![Image 2](/assets/a09_2.png) | ![Fused Image](/assets/a09_fused.png)
+
+Image 1 has hazy left part, image 2 has hazy right part, image 3 fuses both and takes the clear sections of both images.
